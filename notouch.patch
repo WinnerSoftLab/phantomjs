@@ -1,0 +1,11 @@
+--- src/qt/qtwebkit/Tools/qmake/mkspecs/features/features.pri	2017-01-11 12:44:29.400340580 +0300
++++ src/qt/qtwebkit/Tools/qmake/mkspecs/features/features.pri	2017-01-11 13:07:41.414453466 +0300
+@@ -112,7 +112,7 @@
+     ENABLE_TEXT_AUTOSIZING=0 \
+     ENABLE_THREADED_HTML_PARSER=0 \
+     ENABLE_TOUCH_ADJUSTMENT=1 \
+-    ENABLE_TOUCH_EVENTS=1 \
++    ENABLE_TOUCH_EVENTS=0 \
+     ENABLE_TOUCH_ICON_LOADING=0 \
+     ENABLE_USER_TIMING=0 \
+     ENABLE_VIBRATION=0 \
